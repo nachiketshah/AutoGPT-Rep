@@ -13,7 +13,7 @@
 [Русский](https://zdoc.app/ru/Significant-Gravitas/AutoGPT) | 
 [中文](https://zdoc.app/zh/Significant-Gravitas/AutoGPT)
 
-**AutoGPT** is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows. 
+**AutoGPT** is a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows. rlly cool eh?
 
 ## Hosting Options 
    - Download to self-host (Free!)
